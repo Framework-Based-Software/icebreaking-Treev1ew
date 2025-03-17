@@ -3,7 +3,7 @@
 Hi! I'm Wang Shujing, a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![My Image](微信图片_20250317194542.jpg)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
